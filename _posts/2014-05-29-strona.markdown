@@ -4,4 +4,4 @@ title:  "Strona internetowa"
 date:   2014-05-29 18:00:12
 categories: jekyll update
 ---
-Moja strona internetowa o Barcelonie jest do znalezienia pod adresem: <a href="http://TUTAJ ADRES">https://adres</a>
+Moja strona internetowa o Barcelonie jest do znalezienia pod adresem: <a href="http://emassalska.github.io/Barcelona">http://emassalska.github.io/Barcelona</a>
