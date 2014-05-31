@@ -26,9 +26,9 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: blue; }
-a:hover   { color: blue; }
-a:visited { color: blue; }
+a         { color: lightblue; }
+a:hover   { color: orange; }
+a:visited { color: orange; }
 
 /*****************************************************************************/
 /*
